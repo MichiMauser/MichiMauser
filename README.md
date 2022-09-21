@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichiMauser
 - 👀 I’m and Computer Sience and Tech enthusiast (at least for now)
 - 🌱 I’m currently learnin h o w t o c o d e (and engineering)
-- 💞️ I’m looking to collaborate on everything tech related and not only .
+- 💞️ I’m looking to collaborate on everything tech related and not only . (in the faraway future)
 - 📫 How to reach me (work in progress)
 
 <!---
